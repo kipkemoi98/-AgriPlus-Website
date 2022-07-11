@@ -203,3 +203,9 @@ i {
     border: white;
     justify-content: center;
 }
+.f{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
