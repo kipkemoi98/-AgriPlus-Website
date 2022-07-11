@@ -152,7 +152,6 @@ i {
 }.clossing{
     justify-content: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
     padding-top: 70%;
 }
 .getstarted{
@@ -172,15 +171,17 @@ i {
     flex-direction: column;
     align-items: center;
     margin: auto;
-    justify-content: space-between;
+    justify-content: space-around
 }
 .agri{
     display: flex;
     flex-direction: row;
+    font-size: 30px;
 }
 .apps-googl{
-    height: 100px;
+    height: 80px;
     width: 300px;
+    flex-direction: column
 }
 .sub{
     background-color: #ED661F;
@@ -196,4 +197,9 @@ i {
 }
 .socia{
     font-size: 20px;
+    background-color: #000000;
+    color: #ffffff;
+    box-sizing: border-box;
+    border: white;
+    justify-content: center;
 }
