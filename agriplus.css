@@ -1,0 +1,158 @@
+.customer-testimonies {
+    display: flex;
+    padding-top: 30px;
+    padding: auto;
+
+}
+
+.testimonials-wrapper {
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.title {
+    padding-bottom: 60px;
+    padding-left: 30px;
+}
+
+i {
+    color: orange;
+}
+
+.testimonial-text,
+.name {
+    font-weight: bold;
+    font-size: 16px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.single-testimony {
+    padding: 32px 14px 32px;
+    border: 2px solid grey;
+    margin-left: 40px;
+}
+
+.container{
+    display: flex;
+    background-image: url("assets/images/image 1.png");
+    padding: 70px;
+    background-size: 100% 100%;
+    font-size: 26px;
+}
+
+.most-popular {
+    display: flex;
+    background-color: #ffffff;
+    padding: 20px 10px 20px;
+    margin-left: 2px;
+
+}
+
+.ima1 {
+    width: 70%;
+    height: auto;
+}
+
+#addition {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.exist-ima {
+    display: flex;
+    padding-left: 400px;
+    padding-bottom: 0px;
+    float: right;
+    margin-left: 100px;
+}
+
+.j {
+    display: flex;
+    box-sizing: border-box;
+    padding: 50px 30px 50px;
+    margin-left: 3px;
+
+}
+
+.p {
+    width: 70%;
+    height: auto;
+}
+
+.body {
+    padding: 0px;
+    margin: 0px;
+    font-size: large;
+}
+
+.get_started_btn {
+    background-color: orange color: #FAFAFA;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.Agriplus {
+    border: solid #000000;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: white;
+    margin-block-start: auto;
+}
+
+.class-keep {
+    border: solid;
+    background-color: #000000;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.explore_more {
+    height: 60px;
+    width: 250px;
+    background-color: orange;
+    color: white;
+    font-size: x-large;
+}
+
+.product-categories {
+    margin: 0px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column
+    align-items: center;
+    margin: auto;
+    justify-content: space-between;
+}
+.list{
+    list-style: none;
+    flex-direction: row;
+}
+.topbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px;
+}
+.addition_box{
+    border: solid 2px;
+    margin-left: 2000px;
+    margin-top: -100px;
+    padding-top: 50px;
+    flex-direction: row;
+}
