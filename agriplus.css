@@ -100,12 +100,13 @@ i {
     margin-block-start: auto;
 }
 
-.class-keep {
-    border: solid;
+.touch-keep {
     background-color: #000000;
     color: white;
     align-items: center;
     justify-content: center;
+    font-size: 26px;
+    text-align: justify;
 }
 
 .explore_more {
@@ -165,4 +166,8 @@ i {
     width: 150px;
     font-size: 26px;
     background-color: orange;
+}
+.readmore{
+    display: flex;
+    flex-direction: row;
 }
