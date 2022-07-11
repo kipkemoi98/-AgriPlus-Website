@@ -20,7 +20,7 @@ i {
     color: orange;
 }
 
-.testimonial-text,
+.message,
 .name {
     font-weight: bold;
     font-size: 16px;
@@ -117,11 +117,11 @@ i {
 .product-categories {
     margin: 0px;
 }
-.footer{
+.agri-plus{
     background-color: black;
-    color: white;
+    color: #ffffff;
     display: flex;
-    flex-direction: column
+    font-size: 20px;
 }
 .list{
     list-style: none;
@@ -143,4 +143,8 @@ i {
     margin-top: -100px;
     padding-top: 50px;
     flex-direction: row;
+}
+.navbar{
+    display: flex;
+    font-size: 20px;
 }
