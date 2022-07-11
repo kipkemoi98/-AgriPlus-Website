@@ -174,13 +174,22 @@ i {
     display: flex;
     flex-direction: row;
 }
-.socialmedia{
-    height: 80px;
-    width: 180px;
-    flex-direction: column;
-    padding: 10px;
-}
 .apps-googl{
     height: 100px;
     width: 300px;
+}
+.sub{
+    background-color: #ED661F;
+    padding-bottom: 14px;
+}
+#mail{
+        background-color: white;
+        color: black;
+        padding: 20px;
+        font-size: 20px;
+        height: 40px;
+        width: 300px;
+}
+.socia{
+    font-size: 20px;
 }
