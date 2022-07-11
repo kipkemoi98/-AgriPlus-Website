@@ -174,3 +174,13 @@ i {
     display: flex;
     flex-direction: row;
 }
+.socialmedia{
+    height: 80px;
+    width: 180px;
+    flex-direction: column;
+    padding: 10px;
+}
+.apps-googl{
+    height: 100px;
+    width: 300px;
+}
