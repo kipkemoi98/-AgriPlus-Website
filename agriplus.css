@@ -141,6 +141,10 @@ i {
     margin-top: -100px;
     padding-top: 50px;
     flex-direction: row;
+    padding-right: 200px;
+    width: 600px;
+    background-color: #ffffff;
+    font-size: 32px;
 }
 .navbar{
     display: flex;
