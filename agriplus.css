@@ -125,12 +125,7 @@ i {
     color: #ffffff;
     display: flex;
     font-size: 20px;
-}
-.list{
-    list-style: none;
-    flex-direction: row;
-}
-.topbar{
+}.topbar{
     background-color: black;
     color: white;
     display: flex;
@@ -150,12 +145,7 @@ i {
 .navbar{
     display: flex;
     font-size: 20px;
-}
-.footnotes{
-    justify-content: center;
-    display: flex;
-}
-.clossing{
+}.clossing{
     justify-content: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
@@ -168,6 +158,19 @@ i {
     background-color: orange;
 }
 .readmore{
+    display: flex;
+    flex-direction: row;
+}
+.agri_plus{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    justify-content: space-between;
+}
+.agri{
     display: flex;
     flex-direction: row;
 }
