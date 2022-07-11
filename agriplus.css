@@ -67,6 +67,7 @@ i {
 
 .exist-ima {
     height: 60%;
+    width: 70%;
 }
 
 .j {
@@ -113,9 +114,6 @@ i {
     font-size: x-large;
 }
 
-.product-categories {
-    margin: 0px;
-}
 .agri-plus{
     background-color: black;
     color: #ffffff;
@@ -126,8 +124,6 @@ i {
     color: white;
     display: flex;
     flex-direction: row;
-    margin: auto;
-    align-items: center;
     justify-content: space-around;
     padding: 30px;
 }
@@ -204,4 +200,8 @@ i {
     display: flex;
     justify-content: center;
     font-size: 30px;
+}
+#pc{
+    justify-content: center;
+    display: flex;
 }
