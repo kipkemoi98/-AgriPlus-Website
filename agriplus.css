@@ -61,7 +61,7 @@ i {
     align-items: center;
     flex-direction: row;
     justify-content: space-around;
-    font-size: 20px;
+    font-size: 26px;
     padding-left: 0px;
 
 }
@@ -125,27 +125,31 @@ i {
     color: white;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 30px;
+    font-display: 20px;
 }
 .addition_box{
     border: solid 2px;
-    margin-left: 2000px;
+    margin-left: 1900px;
     margin-top: -100px;
-    padding-top: 50px;
+    padding-top: 100px;
     flex-direction: row;
     padding-right: 200px;
-    width: 600px;
+    width: 700px;
     background-color: #ffffff;
-    font-size: 32px;
+    font-size: 40px;
 }
 .navbar{
     display: flex;
     font-size: 20px;
+    justify-content: center;
+    word-spacing: normal;
+    text-align: justify;
+    text-indent: 70px;
 }.clossing{
     justify-content: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-top: 70%;
 }
 .getstarted{
     height: 60px;
@@ -164,7 +168,9 @@ i {
     flex-direction: column;
     align-items: center;
     margin: auto;
-    justify-content: space-around
+    justify-content: space-around;
+    text-indent: 40px;
+    list-style: none;
 }
 .agri{
     display: flex;
@@ -216,4 +222,12 @@ i {
 #customs{
     display: flex;
     justify-content: center;
+}
+.agrp{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.body{
+    background-color: #ffffff;
 }
